@@ -24,6 +24,6 @@ checks:
 
 plugins:
   eslint:
-    enabled: true
+    enabled: false
   tslint:
     enabled: true
