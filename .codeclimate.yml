@@ -27,3 +27,4 @@ plugins:
     enabled: false
   tslint:
     enabled: true
+    config: tslint.json
